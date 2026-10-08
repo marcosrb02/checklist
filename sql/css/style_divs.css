@@ -1,0 +1,77 @@
+#div-login{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+#div-arquivos{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+
+#div-movimentos{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+#div-relatorios{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+#div-conciliacao{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+#div-SPED{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+#div-ANS{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+#div-demandas{
+    height: auto;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+#div-pe{
+    margin-top: 15px;
+    height: 20vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background: rgb(79, 00, 114);
+}
